@@ -1,5 +1,3 @@
-package unit01;
-
 /* Program to read in a country name and print out
  * the capital city.  Very limited list of cities
  * is included.

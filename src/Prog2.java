@@ -1,5 +1,3 @@
-package unit01;
-
 /* A simple program to randomly generate three marks
  * and convert them to letter grades.
  */

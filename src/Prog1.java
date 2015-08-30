@@ -1,5 +1,3 @@
-package unit01;
-
 /* A simple program to read in a mark and convert
  * it to a letter grade.
  */
